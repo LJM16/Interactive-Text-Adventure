@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: eb3b1ca23cea42843b09c9316a2900ca, type: 3}
-  m_Name: Introduction
+  m_Name: Story Text
   m_EditorClassIdentifier: 
   storyText: 'After you have fallen into the cave you realize that there is no way
     to escape so you decide to look around and explore since you might be down here
