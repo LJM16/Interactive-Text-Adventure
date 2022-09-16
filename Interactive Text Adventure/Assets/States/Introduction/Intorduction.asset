@@ -12,5 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb3b1ca23cea42843b09c9316a2900ca, type: 3}
   m_Name: Intorduction
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: Bingus and his friend Brad are walking through the woods after school
+    when suddenly bingus falls into a hole and lands in a mysterious cave. You look
+    up and realize that trying to leave the way you came is not possible so your
+    only choice is to continue exploring the cave.
   nextStates: []

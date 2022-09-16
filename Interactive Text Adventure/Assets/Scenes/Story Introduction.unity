@@ -1149,6 +1149,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 1150247566592204360, guid: fa8eba630bb68e048b4ce049065cac3a, type: 3}
+      propertyPath: startingState
+      value: 
+      objectReference: {fileID: 11400000, guid: 968df5719ca79f3478f918e80be1a04a, type: 2}
+    - target: {fileID: 1150247566592204360, guid: fa8eba630bb68e048b4ce049065cac3a, type: 3}
       propertyPath: textComponent
       value: 
       objectReference: {fileID: 1059567948}
