@@ -158,8 +158,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -51, y: -60.31081}
-  m_SizeDelta: {x: 405.3233, y: 203.0308}
+  m_AnchoredPosition: {x: -49.52841, y: -62.518127}
+  m_SizeDelta: {x: 431.8114, y: 230.9904}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &757354308
 MonoBehaviour:
@@ -174,7 +174,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.46226418, g: 0.15917587, b: 0.15917587, a: 1}
+  m_Color: {r: 0.16078432, g: 0.24340543, b: 0.4627451, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -236,7 +236,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -54, y: -109.97409}
+  m_AnchoredPosition: {x: -68, y: -137}
   m_SizeDelta: {x: 173.8212, y: 40.0518}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &982843534
@@ -391,10 +391,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '*inser story here*'
+  m_text: Bingus and his friend Brad are walking through the woods after school when
+    suddenly bingus falls into a hole and lands in a mysterious cave. You look up
+    and realize that trying to leave the way you came is not possible so your only
+    choice is to continue exploring the cave.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 3198d963b0a362b4d83fd672c9f1c509, type: 2}
+  m_sharedMaterial: {fileID: 5110959294559372687, guid: 3198d963b0a362b4d83fd672c9f1c509, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -418,8 +421,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 12
-  m_fontSizeBase: 12
+  m_fontSize: 20
+  m_fontSizeBase: 20
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -813,7 +816,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b96bfe6ad3fd9664b9b95c551a27392a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e8c039577d6b1b040986d11e529bf8fe, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

@@ -9,9 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/StartScene.unity
     guid: 4869aac82b7bb8f429b5e2311b69ce58
   - enabled: 1
-    path: Assets/Scenes/Story Introduction.unity
+    path: Assets/Scenes/cave entrace.unity
     guid: e96e2b0fc620712418b7278860a1349d
   - enabled: 1
-    path: Assets/Scenes/core game.unity
+    path: Assets/Scenes/forest.unity
     guid: 68c59bf616854f2408b84a26f0dbf354
   m_configObjects: {}
