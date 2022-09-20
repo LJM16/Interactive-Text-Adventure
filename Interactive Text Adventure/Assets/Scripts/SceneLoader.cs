@@ -16,6 +16,32 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene(0);
     }
 
+    public void LoadTownScene()
+    {
+        SceneManager.LoadScene(4);
+    }
+
+
+    public void LoadforestScene()
+    {
+        SceneManager.LoadScene(2);
+    }
+
+    public void LoadContinueInCave()
+    {
+        SceneManager.LoadScene(5);
+    }
+
+    public void LoadGameOverForest1()
+    {
+        SceneManager.LoadScene(6);
+    }
+
+    public void LoadCaveExit()
+    {
+        SceneManager.LoadScene(3);
+    }
+
     public void QuitGame()
     {
         Application.Quit();
