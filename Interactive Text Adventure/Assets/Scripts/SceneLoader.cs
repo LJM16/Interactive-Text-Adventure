@@ -42,6 +42,11 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene(3);
     }
 
+    public void LoadGameOverTown()
+    {
+        SceneManager.LoadScene(7);
+    }
+
     public void QuitGame()
     {
         Application.Quit();
