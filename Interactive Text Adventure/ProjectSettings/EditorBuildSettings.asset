@@ -29,4 +29,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GameOverTown.unity
     guid: af9787b024cfb0648b2bf4cc9f3e57e2
+  - enabled: 1
+    path: Assets/Scenes/TownContinuation.unity
+    guid: e08cb50a5664ecc439004e4042e18f83
+  - enabled: 1
+    path: Assets/Scenes/YouDie.unity
+    guid: 7f1d31891d1ae964099f7034c3ad2c80
+  - enabled: 1
+    path: Assets/Scenes/GreenWater.unity
+    guid: c2987f44ea327224780a85ea291a1729
+  - enabled: 1
+    path: Assets/Scenes/ClearWater.unity
+    guid: 2142c39a8e32e5e429ab6b52fc6202d3
   m_configObjects: {}

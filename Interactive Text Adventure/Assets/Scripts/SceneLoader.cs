@@ -47,6 +47,26 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene(7);
     }
 
+    public void LoadTownContinuation()
+    {
+        SceneManager.LoadScene(8);
+    }
+
+    public void LoadYouDie()
+    {
+        SceneManager.LoadScene(9);
+    }
+
+    public void LoadGreenWater()
+    {
+        SceneManager.LoadScene(10);
+    }
+
+    public void LoadClearWater()
+    {
+        SceneManager.LoadScene(11);
+    }
+
     public void QuitGame()
     {
         Application.Quit();
