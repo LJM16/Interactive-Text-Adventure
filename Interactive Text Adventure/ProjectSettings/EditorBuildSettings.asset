@@ -41,4 +41,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ClearWater.unity
     guid: 2142c39a8e32e5e429ab6b52fc6202d3
+  - enabled: 1
+    path: Assets/Scenes/YouWin.unity
+    guid: 59cd62affa576c04184184264aa8effe
   m_configObjects: {}
