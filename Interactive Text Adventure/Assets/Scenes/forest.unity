@@ -516,13 +516,13 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2073301317}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
+      - m_Target: {fileID: 2073301318}
+        m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
+        m_MethodName: LoadGameOverForest1
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -1082,7 +1082,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2073301318}
         m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
-        m_MethodName: LoadGameOverForest1
+        m_MethodName: LoadGameOver
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1263,17 +1263,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c51905de19c9d3946b1bf79c63bf1f26, type: 3}
---- !u!1 &2073301317 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8562607363949633422, guid: c51905de19c9d3946b1bf79c63bf1f26, type: 3}
-  m_PrefabInstance: {fileID: 2073301316}
-  m_PrefabAsset: {fileID: 0}
 --- !u!114 &2073301318 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 8562607363949633423, guid: c51905de19c9d3946b1bf79c63bf1f26, type: 3}
   m_PrefabInstance: {fileID: 2073301316}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2073301317}
+  m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 90c75a1de4647eb468d3d09024d27f40, type: 3}
